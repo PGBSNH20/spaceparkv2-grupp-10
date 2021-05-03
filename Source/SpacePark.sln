@@ -1,13 +1,37 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29806.167
+VisualStudioVersion = 16.6.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceParkAPI", "SpaceParkAPI\SpaceParkAPI.csproj", "{2C5915B7-3F6F-4E08-9E94-201B71362E05}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C5915B7-3F6F-4E08-9E94-201B71362E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5915B7-3F6F-4E08-9E94-201B71362E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5915B7-3F6F-4E08-9E94-201B71362E05}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2C5915B7-3F6F-4E08-9E94-201B71362E05}.Debug|x64.Build.0 = Debug|Any CPU
+		{2C5915B7-3F6F-4E08-9E94-201B71362E05}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2C5915B7-3F6F-4E08-9E94-201B71362E05}.Debug|x86.Build.0 = Debug|Any CPU
+		{2C5915B7-3F6F-4E08-9E94-201B71362E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5915B7-3F6F-4E08-9E94-201B71362E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C5915B7-3F6F-4E08-9E94-201B71362E05}.Release|x64.ActiveCfg = Release|Any CPU
+		{2C5915B7-3F6F-4E08-9E94-201B71362E05}.Release|x64.Build.0 = Release|Any CPU
+		{2C5915B7-3F6F-4E08-9E94-201B71362E05}.Release|x86.ActiveCfg = Release|Any CPU
+		{2C5915B7-3F6F-4E08-9E94-201B71362E05}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {795378BC-AEDA-4B38-B52C-F7EE2E5A3704}
+		SolutionGuid = {BA3B1263-BD0C-4264-93A2-08C3B08A2E5D}
 	EndGlobalSection
 EndGlobal
